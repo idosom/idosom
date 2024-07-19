@@ -4,5 +4,4 @@ I'm Ido
 - I like running
 - I like gym
 - I like [photography](www.idosomekh.site)
-
-I am from **Israel**
+- I developed [AllergyScan](www.allergyscan.site)
