@@ -1,1 +1,1 @@
-I'm Ido, developer of [AllergyScan](www.allergyscan.site)
+I'm Ido, developer of [AllergyScan](https://www.allergyscan.site)
