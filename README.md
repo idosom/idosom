@@ -1,5 +1,1 @@
-I'm Ido
-
-- I like cars
-- I like running
-- I like gym
+I'm Ido, developer of [AllergyScan](www.allergyscan.site)
